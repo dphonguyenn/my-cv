@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(232, 236, 241);
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow:  0 0 #0000, 0 0 #0000, 0px 0px 12px rgb(0 0 0 / 6%);
+    height: 720px
+}
